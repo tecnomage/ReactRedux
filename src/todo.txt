@@ -1,0 +1,2 @@
+no arquivo APP.js
+TypeError: Cannot read property 'props' of undefined
